@@ -1,0 +1,27 @@
+ --root
+"D:\Hand_Object_pose_shape\HOR2H-main\datasets\ho3d\data"
+--checkpoint_folder
+"hand-object"
+--checkpoint_id
+50
+--dataset_name
+"ho3d"
+========
+ --split 
+"test"
+ --seq
+"SM1"
+--visualize
+===or====
+--split
+"val"
+--seq
+"rgb"
+=======
+--batch_size
+1
+--hid_size
+128
+--object
+--photometric
+

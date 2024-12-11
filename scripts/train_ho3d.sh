@@ -1,0 +1,12 @@
+--dataset_name 
+"ho3d"
+--root
+"D:\Hand_Object_pose_shape\THOR-Net-ours\datasets\ho3d_v2\data"
+--output_file
+"D:/Hand_Object_pose_shape/THOR-Net-ours/checkpoints/hand-object/ho3d_v2_checkpoints/model-"
+--batch_size
+8 
+--photometric
+--hid_size 
+128 
+--object 
